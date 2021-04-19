@@ -1,1 +1,2 @@
-# Reto5Java
+# Reto6Java
+Crear una aplicación que permita la gestión de cuentas de ahorros. Cada cuenta de ahorros tendrá un número de identificación de la cuenta (que sólo podrá ser de 10 dígitos, ya que será el número de la línea móvil del titular), el país de la línea móvil, el tipo de documento del titular (cédula de ciudadanía o pasaporte), el número de dicho documento (número de la cédula o del pasaporte), el nombre completo del titular, un saldo disponible, un monto máximo por transacción y un máximo de transacciones permitidas por día.
